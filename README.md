@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="left">This is Debasis... and I'm a Full-Stack Developer, from Dhaka,Bangladesh</h1>
+<h1 align="left">This is Bivas... and I'm a Full-Stack Developer, from Dhaka,Bangladesh</h1>
 
 ###
 
