@@ -16,7 +16,10 @@
 
 ###
 
-<p align="left">I am a passionate web developer with a strong interest in Machine Learning and Cybersecurity. Let me tell you a bit about myself.<br><br>I developed a keen interest in web development at the age of 11, inspired by my elder brother's impressive work in this field. Over the years, my passion for technology has expanded to include machine learning and cybersecurity, where I am eager to apply my skills and knowledge.<br><br>Outside of my professional interests, I am an avid sports enthusiast. I enjoy games like table tennis, cricket, and badminton, which help me stay active and improve my focus. I believe that a balance between work and recreation is essential for creativity and success.</p>
+<p align="left">I am a passionate Full Stack Web Developer with growing expertise in Machine Learning and Cybersecurity. My
+journey began in class 11, inspired by a senior from my area whose work sparked my interest in web technologies. I
+enjoy building scalable applications and continuously expanding my skills across modern frameworks and tools.
+Outside of tech, I love playing table tennis, cricket, and badminton, which help me stay active and focused.</p>
 
 ###
 
